@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|c:\\users\\gottf\\riderprojects\\csharpkurs\\1x1-trainer\\1x1-trainer\\loadprofilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|solutionrelative:1x1-trainer\\loadprofilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|c:\\users\\gottf\\riderprojects\\csharpkurs\\1x1-trainer\\1x1-trainer\\createprofilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|solutionrelative:1x1-trainer\\createprofilemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|c:\\users\\gottf\\riderprojects\\csharpkurs\\1x1-trainer\\1x1-trainer\\modeselectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|solutionrelative:1x1-trainer\\modeselectionmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|c:\\users\\gottf\\riderprojects\\csharpkurs\\1x1-trainer\\1x1-trainer\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|solutionrelative:1x1-trainer\\startmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|c:\\users\\gottf\\riderprojects\\csharpkurs\\1x1-trainer\\1x1-trainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|solutionrelative:1x1-trainer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|c:\\users\\gottf\\riderprojects\\csharpkurs\\1x1-trainer\\1x1-trainer\\basemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|solutionrelative:1x1-trainer\\basemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|c:\\users\\gottf\\riderprojects\\csharpkurs\\1x1-trainer\\1x1-trainer\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA45F2E9-15C1-49D9-A50B-0A3FE61979A0}|1x1-Trainer\\1x1-Trainer.csproj|solutionrelative:1x1-trainer\\settingsmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModeSelectionMenu.cs",
+              "DocumentMoniker": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\ModeSelectionMenu.cs",
+              "RelativeDocumentMoniker": "1x1-Trainer\\ModeSelectionMenu.cs",
+              "ToolTip": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\ModeSelectionMenu.cs",
+              "RelativeToolTip": "1x1-Trainer\\ModeSelectionMenu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAApwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T22:25:52.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SettingsMenu.cs",
+              "DocumentMoniker": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\SettingsMenu.cs",
+              "RelativeDocumentMoniker": "1x1-Trainer\\SettingsMenu.cs",
+              "ToolTip": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\SettingsMenu.cs",
+              "RelativeToolTip": "1x1-Trainer\\SettingsMenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:08:46.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadProfileMenu.cs",
+              "DocumentMoniker": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\LoadProfileMenu.cs",
+              "RelativeDocumentMoniker": "1x1-Trainer\\LoadProfileMenu.cs",
+              "ToolTip": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\LoadProfileMenu.cs",
+              "RelativeToolTip": "1x1-Trainer\\LoadProfileMenu.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:07:07.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProfileMenu.cs",
+              "DocumentMoniker": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\CreateProfileMenu.cs",
+              "RelativeDocumentMoniker": "1x1-Trainer\\CreateProfileMenu.cs",
+              "ToolTip": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\CreateProfileMenu.cs",
+              "RelativeToolTip": "1x1-Trainer\\CreateProfileMenu.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:06:02.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\BaseMenu.cs",
+              "RelativeDocumentMoniker": "1x1-Trainer\\BaseMenu.cs",
+              "ToolTip": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\BaseMenu.cs",
+              "RelativeToolTip": "1x1-Trainer\\BaseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:13:56.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartMenu.cs",
+              "DocumentMoniker": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\StartMenu.cs",
+              "RelativeDocumentMoniker": "1x1-Trainer\\StartMenu.cs",
+              "ToolTip": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\StartMenu.cs",
+              "RelativeToolTip": "1x1-Trainer\\StartMenu.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:13:21.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\Program.cs",
+              "RelativeDocumentMoniker": "1x1-Trainer\\Program.cs",
+              "ToolTip": "C:\\Users\\gottf\\RiderProjects\\CSharpKurs\\1x1-Trainer\\1x1-Trainer\\Program.cs",
+              "RelativeToolTip": "1x1-Trainer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:12:48.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
